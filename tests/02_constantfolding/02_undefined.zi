@@ -1,0 +1,9 @@
+main() : int {
+  x : int
+  y : int
+  z : int
+  if (y>x) z = 2 else z = y
+  return 0
+}
+//@PRACOWNIA
+//@out Exit code: 0
